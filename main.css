@@ -1,0 +1,35 @@
+#parent{
+    display: flex;
+  }
+  h1{
+    text-align: center;
+    color: limegreen;
+    border: 5px dotted green;
+  }
+  .dart{
+    color: white;
+    text-align: center;
+  }
+  .image{
+    height: 300px;
+    width: 500px;
+    background-size: cover;
+    text-align: left;
+    color: limegreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    padding: 25px 50px;
+    border: 5px ridge white;
+    border-radius: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  body{
+    background-image:url("https://images.unsplash.com/photo-1505506874110-6a7a69069a08?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80");
+  }
+  #firstImage{
+  background-image: url('https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_0.jpg');
+  }
+  
